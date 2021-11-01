@@ -2,7 +2,7 @@
     package="com.example.egy_rezk">
    <application
         android:label="egy_rezk"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
